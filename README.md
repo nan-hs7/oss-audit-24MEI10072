@@ -3,6 +3,7 @@ Reg No: 24MEI10072
 Chosen software: Python
 
 **Description**
+the project demonstrtes Linux shell concepts using five shell scripts. Each script performs a particular task that is, display information of system, inspect package, disk auditing, log file analysis and making custom manifesto.
 
 **Script 1: System Identity Report**
 We are naming the file script1.sh for convenience. 
@@ -54,3 +55,11 @@ Redirectors:
 >>: appends the subsequent lines to the end of the file so you don't lose the previous content.
 $(whoami): dynamically inserts your system username into the filename.
 Aliases Comment: included at the top to demonstrate the concept as requested by the prompt.
+
+**How to run script:**
+1. Open terminal
+2. Make it executable using chmod +x *.sh
+3. run the 5 scripts
+
+**Conclusion**
+The project demonstrates practical use of shell scripting using Linux and helps understand the importance of tools in system managemnet and automation.
